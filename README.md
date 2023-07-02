@@ -1,2 +1,2 @@
 # Horizon
-News
+About space
